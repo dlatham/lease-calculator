@@ -1,4 +1,0 @@
-calculator
-==========
-
-car lease calculator
